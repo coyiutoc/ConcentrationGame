@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ConcentrationGame:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ConcentrationGame_jar</output-path>
+    <root id="archive" name="ConcentrationGame.jar">
+      <element id="module-output" name="ConcentrationGame" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jnlp spec="1.0+" codebase="https://coyiutoc.github.io/ConcentrationGame/" href = "concGame.jnlp">
+    <information>
+        <title>Concentration Game</title>
+        <homepage href= "https://coyiutoc.github.io/ConcentrationGame/“ />
+    </information>
+    <security>
+        <all-permissions/>
+    </security>
+    <resources>
+        <j2se version="1.6+" />
+        <jar href = "ConcentrationGame.jar" />
+    </resources>
+    <application-desc main-class="ConcentrationGameGUI" /> </application-desc>
+</jnlp>
